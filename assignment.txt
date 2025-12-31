@@ -1,0 +1,7 @@
+b Tupu 1
+b Hupu 2
+b Lupu 3
+l Lupu
+ad 2
+b Lupu 2
+q
